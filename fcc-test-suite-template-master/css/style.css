@@ -1,0 +1,7 @@
+#navbar {
+    width: 100vw;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -100vw;
+}
